@@ -16,14 +16,14 @@ _Connect your branch to the ticket_
 ```bash
 git add .
 git commit -m "your message here"
-git push origin <branch name>
+git push origin <current branch name>
 ```
 1. Create a PR (Pull Request)
 2. Move the ticket to "For review" column
 3. In case of errors:
 
 ```bash
-git push origin <branch name> --force
+git push origin <current branch name> --force
 ```
 
 ## Branch behind? do rebase!

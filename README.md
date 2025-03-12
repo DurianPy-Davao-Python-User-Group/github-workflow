@@ -16,6 +16,7 @@ git checkout -b DY-<ticket number> origin/staging
 4. Connect your ticket
 
 ## Pushing your changes
+_Please refer to [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) for the format of your commit messages_
 ```bash
 git add .
 git commit -m "your message here"

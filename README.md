@@ -59,4 +59,6 @@ git stash pop
 
 **_If you have problems with the workflow never hesitate to ask questions_**
 
+**_1 ticket 1 branch rule, make sure to only have 1 branch for each ticket for easier monitoring and reviews_**
+
 _Workflow by Sam Dacara_

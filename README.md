@@ -10,7 +10,10 @@
 ```bash
 git checkout -b DY-<ticket number> origin/staging
 ```
-_Connect your branch to the ticket_
+1. Go to projects kanban board
+2. Locate your ticket
+3. Right sidebar scroll down to development
+4. Connect your ticket
 
 ## Pushing your changes
 ```bash
